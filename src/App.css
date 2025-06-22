@@ -1,0 +1,227 @@
+body {
+  background: #181a20;
+  color: #f5f6fa;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin: 32px 0 24px 0;
+  letter-spacing: 1px;
+  color: #fff;
+  text-align: center;
+}
+
+.dashboard-table-container {
+  width: 85vw;
+  min-height: 100vh;
+  background: #181a20;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.dashboard-table {
+  width: 98%;
+  margin: 32px 0;
+  border-collapse: collapse;
+  background: #23242b;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 6px 32px rgba(0,0,0,0.25);
+  table-layout: fixed; /* Rende le colonne di larghezza fissa */
+}
+
+.dashboard-table th, .dashboard-table td {
+  padding: 6px 2px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dashboard-table th {
+  background: #23242b;
+  color: #a7b1c2;
+  font-weight: 600;
+  font-size: 1.08rem; /* Font più grande */
+  border-bottom: 2px solid #292b33;
+  letter-spacing: 0.5px;
+}
+
+.dashboard-table tr {
+  transition: background 0.18s;
+}
+
+.dashboard-table tr:hover {
+  background: #23283a;
+}
+
+.dashboard-table td {
+  border-bottom: 1px solid #23283a;
+  color: #f5f6fa;
+  font-size: 1.02rem; /* Font più grande */
+}
+
+.dashboard-table tr:last-child td {
+  border-bottom: none;
+}
+
+.dashboard-table .highlight {
+  background: #1e3a2e;
+  color: #7fffa7;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.forms-row {
+  display: flex;
+  gap: 32px;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 32px 0 0 0;
+}
+
+form {
+  background: #23242b;
+  border-radius: 16px;
+  padding: 20px 24px;
+  margin: 0;
+  flex: 1 1 420px;
+  min-width: 260px;
+  max-width: 480px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.18);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+form input, form button {
+  border: none;
+  border-radius: 8px;
+  padding: 10px 12px;
+  font-size: 0.98rem;
+  margin: 0 4px;
+  transition: box-shadow 0.2s, border 0.2s;
+}
+
+form input {
+  background: #181a20;
+  color: #f5f6fa;
+  border: 2px solid #31344a;
+  width: 150px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.10);
+  font-weight: 500;
+  letter-spacing: 0.5px;
+}
+
+form input:focus {
+  outline: none;
+  border: 2px solid #7fffa7;
+  box-shadow: 0 0 0 2px #7fffa755;
+}
+
+form button {
+  background: linear-gradient(90deg, #7fffa7 0%, #3fa7ff 100%);
+  color: #181a20;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  min-width: 180px;
+}
+
+form button:hover {
+  background: linear-gradient(90deg, #3fa7ff 0%, #7fffa7 100%);
+  color: #181a20;
+}
+
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 180px;
+  background: #181a20;
+  color: #7fffa7;
+  padding: 32px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-right: 2px solid #23242b;
+  min-height: 100vh;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 10;
+}
+
+.sidebar h2 {
+  font-size: 1.4rem;
+  margin-bottom: 32px;
+  color: #7fffa7;
+  letter-spacing: 1px;
+}
+
+.sidebar nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar nav ul li {
+  margin: 18px 0;
+}
+
+.sidebar nav ul li a {
+  color: #a7b1c2;
+  text-decoration: none;
+  font-size: 1.08rem;
+  transition: color 0.18s;
+}
+
+.sidebar nav ul li a.active,
+.sidebar nav ul li a:hover {
+  color: #7fffa7;
+  font-weight: 600;
+}
+
+.main-content {
+  margin-left: 180px;
+  width: 100%;
+  min-height: 100vh;
+  background: #181a20;
+  padding: 0;
+}
+
+.highlight-green {
+  background-color: #7fff7f;
+  color: #006118 !important;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.km-zero {
+  background: #e0e0e0 !important;
+  color: #000000 !important;
+  font-weight: 600;
+  border-radius: 6px;
+}
+.km-cento {
+  background: rgb(255, 255, 0) !important;
+  color: #000000 !important;
+  font-weight: 600;
+  border-radius: 6px;
+}
+.km-max {
+  background: #ff0000 !important;
+  color: #ffffff !important;
+  font-weight: 600;
+  border-radius: 6px;
+}

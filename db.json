@@ -1,0 +1,2905 @@
+{
+  "entries": [
+    {
+      "id": "IOQW",
+      "date": "25/06/2024",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 96934,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EEOZ",
+      "date": "26/06/2024",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 96951,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FZYG",
+      "date": "27/06/2024",
+      "km": 33,
+      "refuelOdometer": "",
+      "odometer": 96984,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PNXJ",
+      "date": "28/06/2024",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 97024,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KNJY",
+      "date": "29/06/2024",
+      "km": 6,
+      "refuelOdometer": "",
+      "odometer": 97030,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KLTO",
+      "date": "30/06/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 97030,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VGSH",
+      "date": "01/07/2024",
+      "km": 54,
+      "refuelOdometer": "",
+      "odometer": 97084,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MOIP",
+      "date": "02/07/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 97133,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QIGK",
+      "date": "03/07/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 97182,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WUPB",
+      "date": "04/07/2024",
+      "km": 74,
+      "refuelOdometer": "",
+      "odometer": 97256,
+      "fuelLiters": ""
+    },
+    {
+      "id": "APXD",
+      "date": "05/07/2024",
+      "km": 65,
+      "refuelOdometer": "",
+      "odometer": 97321,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BXTJ",
+      "date": "06/07/2024",
+      "km": 100,
+      "refuelOdometer": 97265,
+      "odometer": 97421,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ANHZ",
+      "date": "07/07/2024",
+      "km": 32,
+      "refuelOdometer": "",
+      "odometer": 97453,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VOYC",
+      "date": "08/07/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 97502,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GIBC",
+      "date": "09/07/2024",
+      "km": 109,
+      "refuelOdometer": "",
+      "odometer": 97611,
+      "fuelLiters": ""
+    },
+    {
+      "id": "SCHI",
+      "date": "10/07/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 97660,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZHUV",
+      "date": "11/07/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 97709,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ONPV",
+      "date": "12/07/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 97758,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BUXH",
+      "date": "13/07/2024",
+      "km": 48,
+      "refuelOdometer": 97767,
+      "odometer": 97806,
+      "fuelLiters": 25
+    },
+    {
+      "id": "ATXD",
+      "date": "14/07/2024",
+      "km": 16,
+      "refuelOdometer": "",
+      "odometer": 97822,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VCDL",
+      "date": "15/07/2024",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 97839,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PJWD",
+      "date": "16/07/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 97839,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BWOU",
+      "date": "17/07/2024",
+      "km": 10,
+      "refuelOdometer": "",
+      "odometer": 97849,
+      "fuelLiters": ""
+    },
+    {
+      "id": "IHNH",
+      "date": "18/07/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 97849,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KBUN",
+      "date": "19/07/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 97849,
+      "fuelLiters": ""
+    },
+    {
+      "id": "JQFI",
+      "date": "20/07/2024",
+      "km": 26,
+      "refuelOdometer": "",
+      "odometer": 97875,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XFCZ",
+      "date": "21/07/2024",
+      "km": 176,
+      "refuelOdometer": "",
+      "odometer": 98051,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NHIC",
+      "date": "22/07/2024",
+      "km": 54,
+      "refuelOdometer": "",
+      "odometer": 98105,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FAOM",
+      "date": "23/07/2024",
+      "km": 62,
+      "refuelOdometer": "",
+      "odometer": 98167,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WIFN",
+      "date": "24/07/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 98216,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HGVR",
+      "date": "25/07/2024",
+      "km": 65,
+      "refuelOdometer": "",
+      "odometer": 98281,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ITEU",
+      "date": "26/07/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 98330,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BBZX",
+      "date": "27/07/2024",
+      "km": 41,
+      "refuelOdometer": 98339,
+      "odometer": 98371,
+      "fuelLiters": 29
+    },
+    {
+      "id": "HPSW",
+      "date": "28/07/2024",
+      "km": 161,
+      "refuelOdometer": "",
+      "odometer": 98532,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MUZO",
+      "date": "29/07/2024",
+      "km": 16,
+      "refuelOdometer": "",
+      "odometer": 98548,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UDYU",
+      "date": "30/07/2024",
+      "km": 16,
+      "refuelOdometer": "",
+      "odometer": 98564,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QTPA",
+      "date": "31/07/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 98564,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VNKW",
+      "date": "01/08/2024",
+      "km": 32,
+      "refuelOdometer": "",
+      "odometer": 98596,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DYOV",
+      "date": "02/08/2024",
+      "km": 32,
+      "refuelOdometer": "",
+      "odometer": 98628,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ABXN",
+      "date": "03/08/2024",
+      "km": 119,
+      "refuelOdometer": "",
+      "odometer": 98747,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UFIS",
+      "date": "04/08/2024",
+      "km": 97,
+      "refuelOdometer": "",
+      "odometer": 98844,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PDRG",
+      "date": "05/08/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 98893,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DARS",
+      "date": "06/08/2024",
+      "km": 60,
+      "refuelOdometer": 98941,
+      "odometer": 98953,
+      "fuelLiters": 29
+    },
+    {
+      "id": "QWLN",
+      "date": "07/08/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 99002,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CLKN",
+      "date": "08/08/2024",
+      "km": 56,
+      "refuelOdometer": "",
+      "odometer": 99058,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MXTZ",
+      "date": "09/08/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 99107,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CQKS",
+      "date": "10/08/2024",
+      "km": 15,
+      "refuelOdometer": "",
+      "odometer": 99122,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZKOB",
+      "date": "11/08/2024",
+      "km": 51,
+      "refuelOdometer": "",
+      "odometer": 99173,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NMNM",
+      "date": "12/08/2024",
+      "km": 10,
+      "refuelOdometer": "",
+      "odometer": 99183,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QNTL",
+      "date": "13/08/2024",
+      "km": 184,
+      "refuelOdometer": "",
+      "odometer": 99367,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FPGW",
+      "date": "14/08/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 99367,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EDTM",
+      "date": "15/08/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 99367,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RVOM",
+      "date": "16/08/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 99367,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RIHA",
+      "date": "17/08/2024",
+      "km": 38,
+      "refuelOdometer": "",
+      "odometer": 99405,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CFOL",
+      "date": "18/08/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 99405,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NJSI",
+      "date": "19/08/2024",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 99422,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VAVA",
+      "date": "20/08/2024",
+      "km": 53,
+      "refuelOdometer": 99454,
+      "odometer": 99475,
+      "fuelLiters": "27,5"
+    },
+    {
+      "id": "STPZ",
+      "date": "21/08/2024",
+      "km": 51,
+      "refuelOdometer": "",
+      "odometer": 99526,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YODJ",
+      "date": "22/08/2024",
+      "km": 9,
+      "refuelOdometer": "",
+      "odometer": 99535,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BKRG",
+      "date": "23/08/2024",
+      "km": 34,
+      "refuelOdometer": "",
+      "odometer": 99569,
+      "fuelLiters": ""
+    },
+    {
+      "id": "JGIJ",
+      "date": "24/08/2024",
+      "km": 100,
+      "refuelOdometer": "",
+      "odometer": 99669,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KEEP",
+      "date": "25/08/2024",
+      "km": 32,
+      "refuelOdometer": "",
+      "odometer": 99701,
+      "fuelLiters": ""
+    },
+    {
+      "id": "TFGW",
+      "date": "26/08/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 99750,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XUCJ",
+      "date": "27/08/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 99799,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UQDV",
+      "date": "28/08/2024",
+      "km": 76,
+      "refuelOdometer": "",
+      "odometer": 99875,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KYKV",
+      "date": "29/08/2024",
+      "km": 54,
+      "refuelOdometer": "",
+      "odometer": 99929,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OWDT",
+      "date": "30/08/2024",
+      "km": 67,
+      "refuelOdometer": 99938,
+      "odometer": 99996,
+      "fuelLiters": "20,89"
+    },
+    {
+      "id": "QZDK",
+      "date": "31/08/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 99996,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FLSM",
+      "date": "01/09/2024",
+      "km": 34,
+      "refuelOdometer": "",
+      "odometer": 100030,
+      "fuelLiters": ""
+    },
+    {
+      "id": "TXJR",
+      "date": "02/09/2024",
+      "km": 171,
+      "refuelOdometer": "",
+      "odometer": 100201,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QIMU",
+      "date": "03/09/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 100201,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OVNM",
+      "date": "04/09/2024",
+      "km": 32,
+      "refuelOdometer": "",
+      "odometer": 100233,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VPYH",
+      "date": "05/09/2024",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 100274,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UMUL",
+      "date": "06/09/2024",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 100286,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZDCG",
+      "date": "07/09/2024",
+      "km": 45,
+      "refuelOdometer": "",
+      "odometer": 100331,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QVTR",
+      "date": "08/09/2024",
+      "km": 34,
+      "refuelOdometer": "",
+      "odometer": 100365,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RJOB",
+      "date": "09/09/2024",
+      "km": 55,
+      "refuelOdometer": "",
+      "odometer": 100420,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LXTN",
+      "date": "10/09/2024",
+      "km": 65,
+      "refuelOdometer": 100429,
+      "odometer": 100485,
+      "fuelLiters": "28,14"
+    },
+    {
+      "id": "XMOD",
+      "date": "11/09/2024",
+      "km": 56,
+      "refuelOdometer": "",
+      "odometer": 100541,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RUGD",
+      "date": "12/09/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 100590,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DJOO",
+      "date": "13/09/2024",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 100639,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MCSR",
+      "date": "14/09/2024",
+      "km": 32,
+      "refuelOdometer": "",
+      "odometer": 100671,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UWRG",
+      "date": "15/09/2024",
+      "km": 25,
+      "refuelOdometer": "",
+      "odometer": 100696,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NTVY",
+      "date": "16/09/2024",
+      "km": 26,
+      "refuelOdometer": "",
+      "odometer": 100722,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GWGP",
+      "date": "17/09/2024",
+      "km": 25,
+      "refuelOdometer": "",
+      "odometer": 100747,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GHGY",
+      "date": "18/09/2024",
+      "km": 9,
+      "refuelOdometer": "",
+      "odometer": 100756,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BNKH",
+      "date": "19/09/2024",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 100773,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QNCR",
+      "date": "20/09/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 100773,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VAJH",
+      "date": "21/09/2024",
+      "km": 26,
+      "refuelOdometer": "",
+      "odometer": 100799,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DFFC",
+      "date": "22/09/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 100799,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QCYT",
+      "date": "23/09/2024",
+      "km": 94,
+      "refuelOdometer": 100822,
+      "odometer": 100893,
+      "fuelLiters": "20,34"
+    },
+    {
+      "id": "JRIM",
+      "date": "24/09/2024",
+      "km": 90,
+      "refuelOdometer": "",
+      "odometer": 100983,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YYMS",
+      "date": "25/09/2024",
+      "km": 9,
+      "refuelOdometer": "",
+      "odometer": 100992,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PAKS",
+      "date": "26/09/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 100992,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QYGR",
+      "date": "27/09/2024",
+      "km": 114,
+      "refuelOdometer": "",
+      "odometer": 101106,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AGXG",
+      "date": "28/09/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 101106,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LJUG",
+      "date": "29/09/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 101106,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HRNI",
+      "date": "30/09/2024",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 101123,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PSCJ",
+      "date": "01/10/2024",
+      "km": 29,
+      "refuelOdometer": "",
+      "odometer": 101152,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LYDB",
+      "date": "02/10/2024",
+      "km": 42,
+      "refuelOdometer": "",
+      "odometer": 101194,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GFNG",
+      "date": "03/10/2024",
+      "km": 67,
+      "refuelOdometer": "",
+      "odometer": 101261,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DOJX",
+      "date": "04/10/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 101261,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FCMO",
+      "date": "05/10/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 101261,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BNSI",
+      "date": "06/10/2024",
+      "km": 50,
+      "refuelOdometer": "",
+      "odometer": 101311,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RCTT",
+      "date": "07/10/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 101311,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ESVE",
+      "date": "08/10/2024",
+      "km": 26,
+      "refuelOdometer": 101320,
+      "odometer": 101337,
+      "fuelLiters": "28,61"
+    },
+    {
+      "id": "SAUX",
+      "date": "09/10/2024",
+      "km": 31,
+      "refuelOdometer": "",
+      "odometer": 101368,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PGZR",
+      "date": "10/10/2024",
+      "km": 56,
+      "refuelOdometer": "",
+      "odometer": 101424,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HFSX",
+      "date": "11/10/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 101424,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UNQH",
+      "date": "12/10/2024",
+      "km": 119,
+      "refuelOdometer": "",
+      "odometer": 101543,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VFIW",
+      "date": "13/10/2024",
+      "km": 38,
+      "refuelOdometer": "",
+      "odometer": 101581,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GUOM",
+      "date": "14/10/2024",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 101622,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VQBV",
+      "date": "15/10/2024",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 101639,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XXDO",
+      "date": "16/10/2024",
+      "km": 20,
+      "refuelOdometer": "",
+      "odometer": 101659,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BQFA",
+      "date": "17/10/2024",
+      "km": 29,
+      "refuelOdometer": "",
+      "odometer": 101688,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RHUR",
+      "date": "18/10/2024",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 101707,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NUDQ",
+      "date": "19/10/2024",
+      "km": 55,
+      "refuelOdometer": "",
+      "odometer": 101762,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HQUH",
+      "date": "20/10/2024",
+      "km": 37,
+      "refuelOdometer": "",
+      "odometer": 101799,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LVVD",
+      "date": "21/10/2024",
+      "km": 43,
+      "refuelOdometer": "",
+      "odometer": 101842,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YHIH",
+      "date": "22/10/2024",
+      "km": 112,
+      "refuelOdometer": 101851,
+      "odometer": 101954,
+      "fuelLiters": "27,82"
+    },
+    {
+      "id": "ZXGI",
+      "date": "23/10/2024",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 101966,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BJAA",
+      "date": "24/10/2024",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 101978,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EXLL",
+      "date": "25/10/2024",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 101990,
+      "fuelLiters": ""
+    },
+    {
+      "id": "TNJN",
+      "date": "26/10/2024",
+      "km": 45,
+      "refuelOdometer": "",
+      "odometer": 102035,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QWMI",
+      "date": "27/10/2024",
+      "km": 51,
+      "refuelOdometer": "",
+      "odometer": 102086,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KEKF",
+      "date": "28/10/2024",
+      "km": 93,
+      "refuelOdometer": "",
+      "odometer": 102179,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BJRX",
+      "date": "29/10/2024",
+      "km": 27,
+      "refuelOdometer": "",
+      "odometer": 102206,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QIVY",
+      "date": "30/10/2024",
+      "km": 18,
+      "refuelOdometer": "",
+      "odometer": 102224,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QLUL",
+      "date": "31/10/2024",
+      "km": 144,
+      "refuelOdometer": "",
+      "odometer": 102368,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HZDO",
+      "date": "01/11/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 102368,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OGGA",
+      "date": "02/11/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 102368,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OBKV",
+      "date": "03/11/2024",
+      "km": 26,
+      "refuelOdometer": "",
+      "odometer": 102394,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WECY",
+      "date": "04/11/2024",
+      "km": 27,
+      "refuelOdometer": 102403,
+      "odometer": 102421,
+      "fuelLiters": "30,93"
+    },
+    {
+      "id": "VZZJ",
+      "date": "05/11/2024",
+      "km": 90,
+      "refuelOdometer": "",
+      "odometer": 102511,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ITDO",
+      "date": "06/11/2024",
+      "km": 11,
+      "refuelOdometer": "",
+      "odometer": 102522,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MLCG",
+      "date": "07/11/2024",
+      "km": 14,
+      "refuelOdometer": "",
+      "odometer": 102536,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FBBE",
+      "date": "08/11/2024",
+      "km": 22,
+      "refuelOdometer": "",
+      "odometer": 102558,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ANCN",
+      "date": "09/11/2024",
+      "km": 108,
+      "refuelOdometer": "",
+      "odometer": 102666,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OTAB",
+      "date": "10/11/2024",
+      "km": 36,
+      "refuelOdometer": "",
+      "odometer": 102702,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YMIN",
+      "date": "11/11/2024",
+      "km": 70,
+      "refuelOdometer": "",
+      "odometer": 102772,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VKDN",
+      "date": "12/11/2024",
+      "km": 77,
+      "refuelOdometer": "",
+      "odometer": 102849,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XGQE",
+      "date": "13/11/2024",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 102868,
+      "fuelLiters": ""
+    },
+    {
+      "id": "IQWV",
+      "date": "14/11/2024",
+      "km": 20,
+      "refuelOdometer": "",
+      "odometer": 102888,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DSJP",
+      "date": "15/11/2024",
+      "km": 18,
+      "refuelOdometer": "",
+      "odometer": 102906,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OTVJ",
+      "date": "16/11/2024",
+      "km": 28,
+      "refuelOdometer": "",
+      "odometer": 102934,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QEWC",
+      "date": "17/11/2024",
+      "km": 11,
+      "refuelOdometer": "",
+      "odometer": 102945,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OUHG",
+      "date": "18/11/2024",
+      "km": 41,
+      "refuelOdometer": 102965,
+      "odometer": 102986,
+      "fuelLiters": "32,83"
+    },
+    {
+      "id": "CVMX",
+      "date": "19/11/2024",
+      "km": 60,
+      "refuelOdometer": "",
+      "odometer": 103046,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LWHJ",
+      "date": "20/11/2024",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 103058,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LBKL",
+      "date": "21/11/2024",
+      "km": 69,
+      "refuelOdometer": "",
+      "odometer": 103127,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QPYM",
+      "date": "22/11/2024",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 103139,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CBJU",
+      "date": "23/11/2024",
+      "km": 58,
+      "refuelOdometer": "",
+      "odometer": 103197,
+      "fuelLiters": ""
+    },
+    {
+      "id": "SQLA",
+      "date": "24/11/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 103197,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QFJO",
+      "date": "25/11/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 103197,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UTME",
+      "date": "26/11/2024",
+      "km": 57,
+      "refuelOdometer": "",
+      "odometer": 103254,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YGPJ",
+      "date": "27/11/2024",
+      "km": 29,
+      "refuelOdometer": "",
+      "odometer": 103283,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WVBP",
+      "date": "28/11/2024",
+      "km": 158,
+      "refuelOdometer": "",
+      "odometer": 103441,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YKDG",
+      "date": "29/11/2024",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 103460,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GNYJ",
+      "date": "30/11/2024",
+      "km": 72,
+      "refuelOdometer": 103500,
+      "odometer": 103532,
+      "fuelLiters": "30,05"
+    },
+    {
+      "id": "BJHS",
+      "date": "01/12/2024",
+      "km": 291,
+      "refuelOdometer": "",
+      "odometer": 103823,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BWBW",
+      "date": "02/12/2024",
+      "km": 82,
+      "refuelOdometer": "",
+      "odometer": 103905,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PFLX",
+      "date": "03/12/2024",
+      "km": 88,
+      "refuelOdometer": "",
+      "odometer": 103993,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NTUW",
+      "date": "04/12/2024",
+      "km": 13,
+      "refuelOdometer": "",
+      "odometer": 104006,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LWDE",
+      "date": "05/12/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 104006,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UGNL",
+      "date": "06/12/2024",
+      "km": 13,
+      "refuelOdometer": "",
+      "odometer": 104019,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XRIY",
+      "date": "07/12/2024",
+      "km": 83,
+      "refuelOdometer": 104033,
+      "odometer": 104102,
+      "fuelLiters": "29,07"
+    },
+    {
+      "id": "XDPV",
+      "date": "08/12/2024",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 104141,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZABP",
+      "date": "09/12/2024",
+      "km": 42,
+      "refuelOdometer": "",
+      "odometer": 104183,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZRIP",
+      "date": "10/12/2024",
+      "km": 42,
+      "refuelOdometer": "",
+      "odometer": 104225,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RNEE",
+      "date": "11/12/2024",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 104244,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZBEM",
+      "date": "12/12/2024",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 104263,
+      "fuelLiters": ""
+    },
+    {
+      "id": "TLWL",
+      "date": "13/12/2024",
+      "km": 152,
+      "refuelOdometer": "",
+      "odometer": 104415,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OZLM",
+      "date": "14/12/2024",
+      "km": 62,
+      "refuelOdometer": "",
+      "odometer": 104477,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MLQQ",
+      "date": "15/12/2024",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 104477,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ONHC",
+      "date": "16/12/2024",
+      "km": 69,
+      "refuelOdometer": 104512,
+      "odometer": 104546,
+      "fuelLiters": 29
+    },
+    {
+      "id": "VLNM",
+      "date": "17/12/2024",
+      "km": 146,
+      "refuelOdometer": "",
+      "odometer": 104692,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HHUB",
+      "date": "18/12/2024",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 104704,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EBVI",
+      "date": "19/12/2024",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 104716,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AOEK",
+      "date": "20/12/2024",
+      "km": 153,
+      "refuelOdometer": "",
+      "odometer": 104869,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BTEP",
+      "date": "21/12/2024",
+      "km": 157,
+      "refuelOdometer": "",
+      "odometer": 105026,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CBJB",
+      "date": "22/12/2024",
+      "km": 31,
+      "refuelOdometer": "",
+      "odometer": 105057,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NKZM",
+      "date": "23/12/2024",
+      "km": 26,
+      "refuelOdometer": 105066,
+      "odometer": 105083,
+      "fuelLiters": 30
+    },
+    {
+      "id": "UZTT",
+      "date": "24/12/2024",
+      "km": 33,
+      "refuelOdometer": "",
+      "odometer": 105116,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PUJT",
+      "date": "25/12/2024",
+      "km": 32,
+      "refuelOdometer": "",
+      "odometer": 105148,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RZQD",
+      "date": "26/12/2024",
+      "km": 70,
+      "refuelOdometer": "",
+      "odometer": 105218,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GVSM",
+      "date": "27/12/2024",
+      "km": 153,
+      "refuelOdometer": "",
+      "odometer": 105371,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WSPF",
+      "date": "28/12/2024",
+      "km": 11,
+      "refuelOdometer": "",
+      "odometer": 105382,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EJPR",
+      "date": "29/12/2024",
+      "km": 5,
+      "refuelOdometer": "",
+      "odometer": 105387,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YLAI",
+      "date": "30/12/2024",
+      "km": 5,
+      "refuelOdometer": "",
+      "odometer": 105392,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UTLE",
+      "date": "31/12/2024",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 105409,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WKTW",
+      "date": "01/01/2025",
+      "km": 11,
+      "refuelOdometer": "",
+      "odometer": 105420,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OXWE",
+      "date": "02/01/2025",
+      "km": 157,
+      "refuelOdometer": 105501,
+      "odometer": 105577,
+      "fuelLiters": "26,1"
+    },
+    {
+      "id": "HLTG",
+      "date": "03/01/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 105577,
+      "fuelLiters": ""
+    },
+    {
+      "id": "TECH",
+      "date": "04/01/2025",
+      "km": 45,
+      "refuelOdometer": "",
+      "odometer": 105622,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PVOV",
+      "date": "05/01/2025",
+      "km": 189,
+      "refuelOdometer": "",
+      "odometer": 105811,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CWXW",
+      "date": "06/01/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 105811,
+      "fuelLiters": ""
+    },
+    {
+      "id": "TIDD",
+      "date": "07/01/2025",
+      "km": 86,
+      "refuelOdometer": "",
+      "odometer": 105897,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QNEC",
+      "date": "08/01/2025",
+      "km": 49,
+      "refuelOdometer": "",
+      "odometer": 105946,
+      "fuelLiters": ""
+    },
+    {
+      "id": "JLEH",
+      "date": "09/01/2025",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 105958,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BNPO",
+      "date": "10/01/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 105958,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QXSR",
+      "date": "11/01/2025",
+      "km": 58,
+      "refuelOdometer": "",
+      "odometer": 106016,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EGRI",
+      "date": "12/01/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 106016,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZKZY",
+      "date": "13/01/2025",
+      "km": 18,
+      "refuelOdometer": 106025,
+      "odometer": 106034,
+      "fuelLiters": "23,61"
+    },
+    {
+      "id": "IHJX",
+      "date": "14/01/2025",
+      "km": 53,
+      "refuelOdometer": "",
+      "odometer": 106087,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KAHZ",
+      "date": "15/01/2025",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 106104,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DRPV",
+      "date": "16/01/2025",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 106121,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EXHR",
+      "date": "17/01/2025",
+      "km": 159,
+      "refuelOdometer": "",
+      "odometer": 106280,
+      "fuelLiters": ""
+    },
+    {
+      "id": "JUSF",
+      "date": "18/01/2025",
+      "km": 57,
+      "refuelOdometer": "",
+      "odometer": 106337,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PBKX",
+      "date": "19/01/2025",
+      "km": 16,
+      "refuelOdometer": "",
+      "odometer": 106353,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NXHV",
+      "date": "20/01/2025",
+      "km": 56,
+      "refuelOdometer": "",
+      "odometer": 106409,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FSRV",
+      "date": "21/01/2025",
+      "km": 57,
+      "refuelOdometer": "",
+      "odometer": 106466,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YNQM",
+      "date": "22/01/2025",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 106478,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YITO",
+      "date": "23/01/2025",
+      "km": 19,
+      "refuelOdometer": 106487,
+      "odometer": 106497,
+      "fuelLiters": 30
+    },
+    {
+      "id": "OJQA",
+      "date": "24/01/2025",
+      "km": 12,
+      "refuelOdometer": "",
+      "odometer": 106509,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ENYU",
+      "date": "25/01/2025",
+      "km": 56,
+      "refuelOdometer": "",
+      "odometer": 106565,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RWOU",
+      "date": "26/01/2025",
+      "km": 36,
+      "refuelOdometer": "",
+      "odometer": 106601,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XGYK",
+      "date": "27/01/2025",
+      "km": 31,
+      "refuelOdometer": "",
+      "odometer": 106632,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AJNF",
+      "date": "28/01/2025",
+      "km": 51,
+      "refuelOdometer": "",
+      "odometer": 106683,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FELO",
+      "date": "29/01/2025",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 106702,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XDEZ",
+      "date": "30/01/2025",
+      "km": 62,
+      "refuelOdometer": "",
+      "odometer": 106764,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YYPQ",
+      "date": "31/01/2025",
+      "km": 194,
+      "refuelOdometer": "",
+      "odometer": 106958,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KOOO",
+      "date": "01/02/2025",
+      "km": 10,
+      "refuelOdometer": "",
+      "odometer": 106968,
+      "fuelLiters": ""
+    },
+    {
+      "id": "SGXG",
+      "date": "02/02/2025",
+      "km": 39,
+      "refuelOdometer": 106998,
+      "odometer": 107007,
+      "fuelLiters": 30
+    },
+    {
+      "id": "XRVZ",
+      "date": "03/02/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 107046,
+      "fuelLiters": ""
+    },
+    {
+      "id": "JQIQ",
+      "date": "04/02/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 107085,
+      "fuelLiters": ""
+    },
+    {
+      "id": "REBR",
+      "date": "05/02/2025",
+      "km": 96,
+      "refuelOdometer": "",
+      "odometer": 107181,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZQRB",
+      "date": "06/02/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 107220,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZJWX",
+      "date": "07/02/2025",
+      "km": 67,
+      "refuelOdometer": "",
+      "odometer": 107287,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DBQN",
+      "date": "08/02/2025",
+      "km": 56,
+      "refuelOdometer": "",
+      "odometer": 107343,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NCVA",
+      "date": "09/02/2025",
+      "km": 25,
+      "refuelOdometer": "",
+      "odometer": 107368,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VFQH",
+      "date": "10/02/2025",
+      "km": 50,
+      "refuelOdometer": "",
+      "odometer": 107418,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QWAE",
+      "date": "11/02/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 107458,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VGKD",
+      "date": "12/02/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 107499,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BLJM",
+      "date": "13/02/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 107539,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZOYO",
+      "date": "14/02/2025",
+      "km": 58,
+      "refuelOdometer": 107563,
+      "odometer": 107597,
+      "fuelLiters": 30
+    },
+    {
+      "id": "FTNW",
+      "date": "15/02/2025",
+      "km": 54,
+      "refuelOdometer": "",
+      "odometer": 107651,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MKSZ",
+      "date": "16/02/2025",
+      "km": 43,
+      "refuelOdometer": "",
+      "odometer": 107694,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UKIE",
+      "date": "17/02/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 107733,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GUNG",
+      "date": "18/02/2025",
+      "km": 96,
+      "refuelOdometer": "",
+      "odometer": 107829,
+      "fuelLiters": ""
+    },
+    {
+      "id": "IZYS",
+      "date": "19/02/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 107868,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KPLQ",
+      "date": "20/02/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 107907,
+      "fuelLiters": ""
+    },
+    {
+      "id": "IHOS",
+      "date": "21/02/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 107946,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WMOI",
+      "date": "22/02/2025",
+      "km": 18,
+      "refuelOdometer": 107955,
+      "odometer": 107964,
+      "fuelLiters": 15
+    },
+    {
+      "id": "BKUB",
+      "date": "23/02/2025",
+      "km": 51,
+      "refuelOdometer": "",
+      "odometer": 108015,
+      "fuelLiters": ""
+    },
+    {
+      "id": "IVGE",
+      "date": "24/02/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 108055,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NSFE",
+      "date": "25/02/2025",
+      "km": 55,
+      "refuelOdometer": "",
+      "odometer": 108110,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HOGM",
+      "date": "26/02/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 108150,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XPTA",
+      "date": "27/02/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 108190,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VAHR",
+      "date": "28/02/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 108230,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AGPG",
+      "date": "01/03/2025",
+      "km": 151,
+      "refuelOdometer": 108306,
+      "odometer": 108381,
+      "fuelLiters": "28,61"
+    },
+    {
+      "id": "BGEA",
+      "date": "02/03/2025",
+      "km": 35,
+      "refuelOdometer": "",
+      "odometer": 108416,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ZOLC",
+      "date": "03/03/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 108456,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YPOQ",
+      "date": "04/03/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 108496,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QTSF",
+      "date": "05/03/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 108535,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AXEW",
+      "date": "06/03/2025",
+      "km": 88,
+      "refuelOdometer": "",
+      "odometer": 108623,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ETMZ",
+      "date": "07/03/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 108662,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CGNP",
+      "date": "08/03/2025",
+      "km": 71,
+      "refuelOdometer": "",
+      "odometer": 108733,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EXRM",
+      "date": "09/03/2025",
+      "km": 43,
+      "refuelOdometer": "",
+      "odometer": 108776,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KQXF",
+      "date": "10/03/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 108816,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NZDE",
+      "date": "11/03/2025",
+      "km": 52,
+      "refuelOdometer": "",
+      "odometer": 108868,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PVQC",
+      "date": "12/03/2025",
+      "km": 44,
+      "refuelOdometer": 108893,
+      "odometer": 108912,
+      "fuelLiters": 30
+    },
+    {
+      "id": "BOQY",
+      "date": "13/03/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 108953,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KHKX",
+      "date": "14/03/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 108993,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YVZH",
+      "date": "15/03/2025",
+      "km": 38,
+      "refuelOdometer": "",
+      "odometer": 109031,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HLYO",
+      "date": "16/03/2025",
+      "km": 89,
+      "refuelOdometer": "",
+      "odometer": 109120,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WRKK",
+      "date": "17/03/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 109161,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PQQO",
+      "date": "18/03/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 109201,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VKTD",
+      "date": "19/03/2025",
+      "km": 76,
+      "refuelOdometer": "",
+      "odometer": 109277,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MSTJ",
+      "date": "20/03/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 109277,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MORS",
+      "date": "21/03/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 109317,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LNRT",
+      "date": "22/03/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 109317,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VETE",
+      "date": "23/03/2025",
+      "km": 50,
+      "refuelOdometer": "",
+      "odometer": 109367,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ROAC",
+      "date": "24/03/2025",
+      "km": 71,
+      "refuelOdometer": 109405,
+      "odometer": 109438,
+      "fuelLiters": 28
+    },
+    {
+      "id": "CRAQ",
+      "date": "25/03/2025",
+      "km": 52,
+      "refuelOdometer": "",
+      "odometer": 109490,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KBZZ",
+      "date": "26/03/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 109530,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DZJW",
+      "date": "27/03/2025",
+      "km": 42,
+      "refuelOdometer": "",
+      "odometer": 109572,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GUGE",
+      "date": "28/03/2025",
+      "km": 57,
+      "refuelOdometer": "",
+      "odometer": 109629,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DSVQ",
+      "date": "29/03/2025",
+      "km": 5,
+      "refuelOdometer": "",
+      "odometer": 109634,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QSWU",
+      "date": "30/03/2025",
+      "km": 5,
+      "refuelOdometer": "",
+      "odometer": 109639,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PYJX",
+      "date": "31/03/2025",
+      "km": 52,
+      "refuelOdometer": "",
+      "odometer": 109691,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PTHW",
+      "date": "01/04/2025",
+      "km": 46,
+      "refuelOdometer": 109727,
+      "odometer": 109737,
+      "fuelLiters": 18
+    },
+    {
+      "id": "TLUO",
+      "date": "02/04/2025",
+      "km": 97,
+      "refuelOdometer": "",
+      "odometer": 109834,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GGYJ",
+      "date": "03/04/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 109873,
+      "fuelLiters": ""
+    },
+    {
+      "id": "SRIE",
+      "date": "04/04/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 109912,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FBNU",
+      "date": "05/04/2025",
+      "km": 89,
+      "refuelOdometer": "",
+      "odometer": 110001,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CMXS",
+      "date": "06/04/2025",
+      "km": 40,
+      "refuelOdometer": "",
+      "odometer": 110041,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RCNH",
+      "date": "07/04/2025",
+      "km": 66,
+      "refuelOdometer": "",
+      "odometer": 110107,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UOTA",
+      "date": "08/04/2025",
+      "km": 52,
+      "refuelOdometer": "",
+      "odometer": 110159,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PHFL",
+      "date": "09/04/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 110200,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AAKA",
+      "date": "10/04/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 110241,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EOWY",
+      "date": "11/04/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 110282,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HIHV",
+      "date": "12/04/2025",
+      "km": 173,
+      "refuelOdometer": 110322,
+      "odometer": 110455,
+      "fuelLiters": 30
+    },
+    {
+      "id": "VFCA",
+      "date": "13/04/2025",
+      "km": 26,
+      "refuelOdometer": "",
+      "odometer": 110481,
+      "fuelLiters": ""
+    },
+    {
+      "id": "JUXJ",
+      "date": "14/04/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 110481,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QTQD",
+      "date": "15/04/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 110481,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DFVE",
+      "date": "16/04/2025",
+      "km": 38,
+      "refuelOdometer": "",
+      "odometer": 110519,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XPWU",
+      "date": "17/04/2025",
+      "km": 97,
+      "refuelOdometer": "",
+      "odometer": 110616,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VGMX",
+      "date": "18/04/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 110655,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AGCP",
+      "date": "19/04/2025",
+      "km": 64,
+      "refuelOdometer": "",
+      "odometer": 110719,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AEZG",
+      "date": "20/04/2025",
+      "km": 31,
+      "refuelOdometer": "",
+      "odometer": 110750,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QVHG",
+      "date": "21/04/2025",
+      "km": 28,
+      "refuelOdometer": "",
+      "odometer": 110778,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EQJK",
+      "date": "22/04/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 110819,
+      "fuelLiters": ""
+    },
+    {
+      "id": "TIRA",
+      "date": "23/04/2025",
+      "km": 72,
+      "refuelOdometer": 110850,
+      "odometer": 110891,
+      "fuelLiters": "31,76"
+    },
+    {
+      "id": "KUOD",
+      "date": "24/04/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 110932,
+      "fuelLiters": ""
+    },
+    {
+      "id": "RGPH",
+      "date": "25/04/2025",
+      "km": 28,
+      "refuelOdometer": "",
+      "odometer": 110960,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HDHK",
+      "date": "26/04/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 110960,
+      "fuelLiters": ""
+    },
+    {
+      "id": "LLHM",
+      "date": "27/04/2025",
+      "km": 61,
+      "refuelOdometer": "",
+      "odometer": 111021,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BDVQ",
+      "date": "28/04/2025",
+      "km": 39,
+      "refuelOdometer": "",
+      "odometer": 111060,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XBAP",
+      "date": "29/04/2025",
+      "km": 45,
+      "refuelOdometer": 111096,
+      "odometer": 111105,
+      "fuelLiters": "14,1"
+    },
+    {
+      "id": "GPGJ",
+      "date": "30/04/2025",
+      "km": 143,
+      "refuelOdometer": "",
+      "odometer": 111248,
+      "fuelLiters": ""
+    },
+    {
+      "id": "PDUM",
+      "date": "01/05/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 111248,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ANNW",
+      "date": "02/05/2025",
+      "km": 68,
+      "refuelOdometer": "",
+      "odometer": 111316,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NMHR",
+      "date": "03/05/2025",
+      "km": 100,
+      "refuelOdometer": "",
+      "odometer": 111416,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XVLQ",
+      "date": "04/05/2025",
+      "km": 63,
+      "refuelOdometer": "",
+      "odometer": 111479,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EZIF",
+      "date": "05/05/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 111520,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BXIF",
+      "date": "06/05/2025",
+      "km": 73,
+      "refuelOdometer": 111530,
+      "odometer": 111593,
+      "fuelLiters": "22,57"
+    },
+    {
+      "id": "SAGY",
+      "date": "07/05/2025",
+      "km": 159,
+      "refuelOdometer": "",
+      "odometer": 111752,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QCYL",
+      "date": "08/05/2025",
+      "km": 18,
+      "refuelOdometer": "",
+      "odometer": 111770,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AUNJ",
+      "date": "09/05/2025",
+      "km": 18,
+      "refuelOdometer": "",
+      "odometer": 111788,
+      "fuelLiters": ""
+    },
+    {
+      "id": "OFXV",
+      "date": "10/05/2025",
+      "km": 9,
+      "refuelOdometer": "",
+      "odometer": 111797,
+      "fuelLiters": ""
+    },
+    {
+      "id": "SVHY",
+      "date": "11/05/2025",
+      "km": 5,
+      "refuelOdometer": "",
+      "odometer": 111802,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UBOK",
+      "date": "12/05/2025",
+      "km": 44,
+      "refuelOdometer": "",
+      "odometer": 111846,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VDCN",
+      "date": "13/05/2025",
+      "km": 97,
+      "refuelOdometer": "",
+      "odometer": 111943,
+      "fuelLiters": ""
+    },
+    {
+      "id": "REAK",
+      "date": "14/05/2025",
+      "km": 13,
+      "refuelOdometer": "",
+      "odometer": 111956,
+      "fuelLiters": ""
+    },
+    {
+      "id": "SRIJ",
+      "date": "15/05/2025",
+      "km": 13,
+      "refuelOdometer": "",
+      "odometer": 111969,
+      "fuelLiters": ""
+    },
+    {
+      "id": "TDCH",
+      "date": "16/05/2025",
+      "km": 13,
+      "refuelOdometer": "",
+      "odometer": 111982,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MUOB",
+      "date": "17/05/2025",
+      "km": 36,
+      "refuelOdometer": "",
+      "odometer": 112018,
+      "fuelLiters": ""
+    },
+    {
+      "id": "JNAR",
+      "date": "18/05/2025",
+      "km": 46,
+      "refuelOdometer": "",
+      "odometer": 112064,
+      "fuelLiters": ""
+    },
+    {
+      "id": "IOXK",
+      "date": "19/05/2025",
+      "km": 40,
+      "refuelOdometer": 112085,
+      "odometer": 112104,
+      "fuelLiters": "29,01"
+    },
+    {
+      "id": "PMSZ",
+      "date": "20/05/2025",
+      "km": 110,
+      "refuelOdometer": "",
+      "odometer": 112214,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GHNX",
+      "date": "21/05/2025",
+      "km": 28,
+      "refuelOdometer": "",
+      "odometer": 112242,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UNJI",
+      "date": "22/05/2025",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 112261,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CGLK",
+      "date": "23/05/2025",
+      "km": 17,
+      "refuelOdometer": "",
+      "odometer": 112278,
+      "fuelLiters": ""
+    },
+    {
+      "id": "DFPI",
+      "date": "24/05/2025",
+      "km": 45,
+      "refuelOdometer": "",
+      "odometer": 112323,
+      "fuelLiters": ""
+    },
+    {
+      "id": "UBJE",
+      "date": "25/05/2025",
+      "km": 78,
+      "refuelOdometer": "",
+      "odometer": 112401,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FQIM",
+      "date": "26/05/2025",
+      "km": 16,
+      "refuelOdometer": "",
+      "odometer": 112417,
+      "fuelLiters": ""
+    },
+    {
+      "id": "AHOV",
+      "date": "27/05/2025",
+      "km": 16,
+      "refuelOdometer": "",
+      "odometer": 112433,
+      "fuelLiters": ""
+    },
+    {
+      "id": "NJIA",
+      "date": "28/05/2025",
+      "km": 19,
+      "refuelOdometer": "",
+      "odometer": 112452,
+      "fuelLiters": ""
+    },
+    {
+      "id": "SPFZ",
+      "date": "29/05/2025",
+      "km": 52,
+      "refuelOdometer": "",
+      "odometer": 112504,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CBXI",
+      "date": "30/05/2025",
+      "km": 89,
+      "refuelOdometer": 112526,
+      "odometer": 112593,
+      "fuelLiters": "24,65"
+    },
+    {
+      "id": "MORA",
+      "date": "31/05/2025",
+      "km": 65,
+      "refuelOdometer": "",
+      "odometer": 112658,
+      "fuelLiters": ""
+    },
+    {
+      "id": "XKDH",
+      "date": "01/06/2025",
+      "km": 91,
+      "refuelOdometer": "",
+      "odometer": 112749,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CGPV",
+      "date": "02/06/2025",
+      "km": 63,
+      "refuelOdometer": "",
+      "odometer": 112812,
+      "fuelLiters": ""
+    },
+    {
+      "id": "EYRO",
+      "date": "03/06/2025",
+      "km": 153,
+      "refuelOdometer": "",
+      "odometer": 112965,
+      "fuelLiters": ""
+    },
+    {
+      "id": "VTZH",
+      "date": "04/06/2025",
+      "km": 115,
+      "refuelOdometer": "",
+      "odometer": 113080,
+      "fuelLiters": ""
+    },
+    {
+      "id": "MHUY",
+      "date": "05/06/2025",
+      "km": 72,
+      "refuelOdometer": "",
+      "odometer": 113152,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ECDZ",
+      "date": "06/06/2025",
+      "km": 13,
+      "refuelOdometer": "",
+      "odometer": 113165,
+      "fuelLiters": ""
+    },
+    {
+      "id": "ODHJ",
+      "date": "07/06/2025",
+      "km": 133,
+      "refuelOdometer": 113174,
+      "odometer": 113298,
+      "fuelLiters": "32,02"
+    },
+    {
+      "id": "ZGDE",
+      "date": "08/06/2025",
+      "km": 41,
+      "refuelOdometer": "",
+      "odometer": 113339,
+      "fuelLiters": ""
+    },
+    {
+      "id": "CWRG",
+      "date": "09/06/2025",
+      "km": 69,
+      "refuelOdometer": "",
+      "odometer": 113408,
+      "fuelLiters": ""
+    },
+    {
+      "id": "WKZL",
+      "date": "10/06/2025",
+      "km": 1,
+      "refuelOdometer": "",
+      "odometer": 113409,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QKTZ",
+      "date": "11/06/2025",
+      "km": 9,
+      "refuelOdometer": "",
+      "odometer": 113418,
+      "fuelLiters": ""
+    },
+    {
+      "id": "QHBL",
+      "date": "12/06/2025",
+      "km": 23,
+      "refuelOdometer": "",
+      "odometer": 113441,
+      "fuelLiters": ""
+    },
+    {
+      "id": "SCTP",
+      "date": "13/06/2025",
+      "km": 30,
+      "refuelOdometer": 113460,
+      "odometer": 113471,
+      "fuelLiters": "16,02"
+    },
+    {
+      "id": "RWUN",
+      "date": "14/06/2025",
+      "km": 85,
+      "refuelOdometer": "",
+      "odometer": 113556,
+      "fuelLiters": ""
+    },
+    {
+      "id": "KOSD",
+      "date": "15/06/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 113556,
+      "fuelLiters": ""
+    },
+    {
+      "id": "HOGA",
+      "date": "16/06/2025",
+      "km": 184,
+      "refuelOdometer": "",
+      "odometer": 113740,
+      "fuelLiters": ""
+    },
+    {
+      "id": "FFJW",
+      "date": "17/06/2025",
+      "km": 54,
+      "refuelOdometer": "",
+      "odometer": 113794,
+      "fuelLiters": ""
+    },
+    {
+      "id": "BDTK",
+      "date": "18/06/2025",
+      "km": 0,
+      "refuelOdometer": "",
+      "odometer": 113794,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YWBJ",
+      "date": "19/06/2025",
+      "km": 177,
+      "refuelOdometer": "",
+      "odometer": 113971,
+      "fuelLiters": ""
+    },
+    {
+      "id": "GGZZ",
+      "date": "20/06/2025",
+      "km": 25,
+      "refuelOdometer": "",
+      "odometer": 113996,
+      "fuelLiters": ""
+    },
+    {
+      "id": "YSSH",
+      "date": "21/06/2025",
+      "km": 63,
+      "odometer": 114059
+    },
+    {
+      "id": "e041",
+      "date": "22/06/2025",
+      "odometer": 114091,
+      "km": 32,
+      "fuelLiters": ""
+    }
+  ]
+}
